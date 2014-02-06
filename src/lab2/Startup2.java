@@ -6,7 +6,7 @@ package lab2;
  *
  * @author Cmptergeekfreak
  */
-public class Startup {
+public class Startup2 {
     
      public static void main(String[] args) {
         
